@@ -12,8 +12,14 @@ In Step 2 we cleaned the text which is considered as data pre-processing
 
 ii. PCA: Principal Component Analysis, or PCA, is a dimensionality-reduction approach for reducing the dimensionality of large data sets by transforming a large collection of variables into a smaller one that retains the majority of the information in the large set. This is step 3 and we used this to scale the data.
 
+![image](https://user-images.githubusercontent.com/84917943/171090489-1c13bd16-20e9-41f1-8eb9-a5fe3ae380dc.png)
+
+
 iii. Scaled Data: This means that we're transforming out data so that it fits within a specific scale, like 0-100 or 0-1. we want to scale data when we're using methods based on measures of how far apart data points, like support vector machines, or SVM or k-nearest neighbors, or KNN. This is step 4 and the scaled data is ready for modeling.
 
 iv: K-means Clustering: k-means Clustering is a vector quantization method that seeks to split n observations into k clusters, with each observation belonging to the cluster with the closest mean (cluster centres or cluster centroid), which serves as the cluster's prototype. This is the final step and the clusters are defined and the observations can be made.
+
+![image](https://user-images.githubusercontent.com/84917943/171090517-38b905de-16bf-4ffd-8193-f0c7d1b4fba5.png)
+
 
 Thanks for scrolling! Happy Coding :) Reach me at linkedIn @Harjot Parhar www.linkedin.com/in/harjot-parhar  	:ghost:
